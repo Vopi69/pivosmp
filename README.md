@@ -1,2 +1,2 @@
-# pivosmp
-PivoSMP official web
+# Pivo Network
+Pivo Network official web
